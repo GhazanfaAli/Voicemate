@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "456604725713",
+    "firebase_url": "https://setup-7fc38-default-rtdb.firebaseio.com",
+    "project_id": "setup-7fc38",
+    "storage_bucket": "setup-7fc38.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:456604725713:android:097dd97e6382c98954f0f0",
+        "android_client_info": {
+          "package_name": "com.myapp.com"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACSwyaUyj_o7fhDnjCj8uluuolLSX8HAk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:456604725713:android:9902172bcfc7183f54f0f0",
+        "android_client_info": {
+          "package_name": "com.translation.voicemate"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACSwyaUyj_o7fhDnjCj8uluuolLSX8HAk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:456604725713:android:b85632ad70b0ff4854f0f0",
+        "android_client_info": {
+          "package_name": "com.traslate.voicemate"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACSwyaUyj_o7fhDnjCj8uluuolLSX8HAk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
